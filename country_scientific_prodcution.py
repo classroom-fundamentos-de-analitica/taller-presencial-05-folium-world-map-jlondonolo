@@ -9,7 +9,6 @@ def load_affiliations():
         index_col=None,
     )[["Affiliations"]]
 
-    
     return dataframe
 
 
